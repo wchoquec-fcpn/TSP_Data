@@ -1,7 +1,7 @@
 {
   "TourSize": 5,
   "OptTour": [0, 1, 3, 2, 4],
-  "OptDistance": 51,
+  "OptDistance": 37,
   "DistanceMatrix": [
     [0, 7, 9, 8, 20],
     [7, 0, 10, 4, 11],
